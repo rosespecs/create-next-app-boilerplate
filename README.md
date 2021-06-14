@@ -1,7 +1,6 @@
 # Boilerplate NextJS app 🚀
 
-Slimed down create next js app.
-[Find the create-next-app here](https://nextjs.org/docs/api-reference/create-next-app)
+Slimed down [create-next-app](https://nextjs.org/docs/api-reference/create-next-app) app.
 
 ## On top of create-next-app this boilerplate includes
 
