@@ -4,7 +4,7 @@ Slimed down [create-next-app](https://nextjs.org/docs/api-reference/create-next-
 
 ## On top of create-next-app this boilerplate includes
 
-- (Styled Components)[https://styled-components.com/]
+- [Styled Components](https://styled-components.com/)
 
 ## Why?
 
